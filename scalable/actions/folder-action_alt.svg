@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_2_copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 96 96" style="enable-background:new 0 0 96 96;" xml:space="preserve">
-<g>
-	<path d="M80,35.1c0-2.5-2-4.5-4.5-4.5H45.4c-2.5,0-4.5-2-4.5-4.5v0v-0.7c0-2.5-2-4.5-4.5-4.5H20.5c-2.5,0-4.5,2-4.5,4.5v5.2v0.7
-		v5.2v1.7h64V35.1z"/>
-	<path d="M16,59.7v5.1v0.8v5.1c0,2.5,2,4.5,4.5,4.5h55c2.5,0,4.5-2,4.5-4.5v-5.9V41.1H16V59.7z"/>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<g id="BG">
+</g>
+<g id="folder-action_x5F_alt">
+	<g>
+		<path d="M4,30.3c0,1.9,1.5,3.4,3.4,3.4h25.2c1.9,0,3.4-1.5,3.4-3.4V18H4V30.3z"/>
+		<path d="M36,14.1c0-1.9-1.6-3.4-3.4-3.4H18.8c-0.4,0-0.7-0.3-0.7-0.7V9.7c0-1.9-1.5-3.4-3.4-3.4H7.4C5.5,6.2,4,7.7,4,9.7v5.6H36
+			V14.1z"/>
+	</g>
 </g>
 </svg>
