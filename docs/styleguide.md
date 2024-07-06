@@ -84,7 +84,7 @@
                     <li><strong>Filled versions</strong> use the same icon name with “.filled” included after the name,
                       before the file extension
                       (e.g., appointment.filled.svg).</li>
-                    <li><strong>Alternative versions</strong> use the same icon name with “-alt” included when offering
+                    <li><strong>Alternative versions</strong> use the same icon name with “_alt” included when offering
                       two different types of an
                       icon, like arrows. (e.g., go-next_alt.svg vs go-next_alt.svg).</li>
                   </ul>
