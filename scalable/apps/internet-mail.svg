@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="internet-mail" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 </style>
-<rect id="BG" y="0" class="st0" width="120" height="120"/>
-<path d="M93.2,24.2L93.2,24.2H26.8c-6.7,0-12.2,5.5-12.2,12.2v47.4c0,6.7,5.5,12.1,12.2,12.1h66.4c6.7,0,12.1-5.5,12.1-12.1V36.3
-	C105.4,29.6,99.9,24.2,93.2,24.2z M78,57.6l18.9-17.4v37.4L78,57.6z M91.4,32.6L59.8,61.7L28.5,32.6H91.4z M48.7,64.1l7.9,7.4
-	c0.9,0.8,2,1.2,3.2,1.2c1.2,0,2.3-0.4,3.2-1.2l8.2-7.5l22.1,23.5c0,0-0.1,0-0.1,0H26.8c0,0-0.1,0-0.1,0L48.7,64.1z M27,32l32.8,30.5
-	L27,32L27,32z M23.1,77.7V40.3l18.8,17.4L23.1,77.7z"/>
+<rect id="BG" class="st0" width="120" height="120"/>
+<path d="M62.6,71l8.6-7.9l23.3,24.7c-0.4,0.1-0.8,0.2-1.3,0.2H26.8c-0.5,0-0.9-0.1-1.3-0.2l23.2-24.6l8.4,7.8l0,0
+	c0.8,0.7,1.8,1.1,2.8,1.1C60.8,72.1,61.8,71.7,62.6,71L62.6,71z M93.2,24.8H26.8c-6.4,0-11.6,5.2-11.6,11.6v47.4
+	c0,6.4,5.2,11.5,11.6,11.5h66.4c6.4,0,11.5-5.2,11.5-11.5V36.3C104.8,30,99.6,24.8,93.2,24.8L93.2,24.8z M97.5,79.2L77.1,57.6
+	l20.3-18.7V79.2z M92.9,32L59.8,62.5L27,32H92.9z M42.7,57.7L22.5,79.2V38.9L42.7,57.7z"/>
 </svg>
