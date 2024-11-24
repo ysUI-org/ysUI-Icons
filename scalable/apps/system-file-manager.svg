@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="view-fullscreen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<svg version="1.1" id="system-file-manager" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 </style>
 <rect id="BG" class="st0" width="120" height="120"/>
 <path d="M88,24H69.4l-18.8,0.1H32c-4.5,0-8.1,3.7-8.1,8.1v18.5v18.7V88c0,4.5,3.7,8.1,8.1,8.1h18.5h18.9H88c4.5,0,8.1-3.7,8.1-8.1
-	V69.4V50.7V32.1C96.1,27.6,92.4,24,88,24z M31.4,32.3c0-0.4,0.3-0.6,0.6-0.6h18.6l18.8-0.1h18.5c0.4,0,0.6,0.3,0.6,0.6v18.5l0,7.9
-	l0,0h-3.5H63.6c-0.8,0-1.6-0.7-1.6-1.6v-0.7c0-4.3-3.5-8-8-8H37.4c-2.4,0-4.5,1.1-6,2.7l0,0l0,0l0-0.2V32.3z"/>
+	V69.4V50.7V32.1C96.1,27.6,92.4,24,88,24z M31.4,32.3c0-0.4,0.3-0.6,0.6-0.6h18.6l18.8-0.1h18.5c0.4,0,0.6,0.3,0.6,0.6v18.5v7.9l0,0
+	H85H63.6c-0.8,0-1.6-0.7-1.6-1.6v-0.7c0-4.3-3.5-8-8-8H37.4c-2.4,0-4.5,1.1-6,2.7l0,0l0,0v-0.2C31.4,50.8,31.4,32.3,31.4,32.3z"/>
 </svg>
