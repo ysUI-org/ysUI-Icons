@@ -39,6 +39,17 @@
             </li>
             <br>
             <li>
+              <h5>Letters, Numbers, and Symbols</h5>
+              <ul>
+                
+                <li><strong>Font:</strong> Fredoka (Medium)
+                  <li>For Letters, Numbers, and Symbols within the icons (ex: ?, !, i, etc) Fredoka is used as a reference.</li></li>
+                <br>
+                <img src="https://ysui.org/img/example-fredoka-redline-2.jpg" height="250" class="rounded-20 mb-2">
+              </ul>
+            </li>
+            <br>
+            <li>
               <h5>Grid and Alignment</h5>
               <ul>
                 <li><strong>Pixel Grid:</strong> Ensure all icons are aligned to a 40x40 pixel grid to maintain
