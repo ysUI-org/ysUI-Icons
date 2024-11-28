@@ -26,7 +26,7 @@
               </ul>
             </li>
             <br>
-            <li>f
+            <li>
               <h5>Color Palette</h5>
               <ul>
                 <li><strong>Color:</strong> #000000 (black)</li>
