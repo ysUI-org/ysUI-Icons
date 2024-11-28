@@ -2,8 +2,7 @@
             <li>
               <h5>Icon Dimensions and Layout</h5>
               <ul>
-                <li><strong>Canvas Size:</strong> All icons currently have a canvas size of 40px by 40px pixels.<br>
-                  <small><em>Note: Future variants are planned.</em></small>
+                <li><strong>Canvas Size:</strong> All icons should have a canvas size of 120px by 120px pixels.<br>
                 </li>
                 <li><strong>Verification:</strong> Make sure icons are still recognizable at 24px by 24px in .png
                   format.
@@ -13,13 +12,12 @@
             <li>
               <h5>Stroke and Fill</h5>
               <ul>
-                <li><strong>Stroke Width:</strong> Stroke varies by importance between 2.25px to 2.7px. Main, usually
-                  outside stroke is
-                  2.7px, details are 2.5px and sometimes 2.25px when required for size. <small><em>Note: Try to match
-                      the sizing of similar
-                      icons.</em></small>
+                <li><strong>Stroke Width:</strong> The main, often the outline stroke is 7px (when using 120x120 art board).
+                  <br>Additional details are more flexible, but keep it visible, easy to read, and apparent at smaller sizes.
                   <br>
-                  <img src="https://ysui.org/img/example-server-stroke-redline-2.jpg" height="250" class="rounded-20 mb-2">
+                  <small><em>Note: Try to match the sizing of similar icons.</em></small>
+                  <br>
+                  <img src="https://ysui.org/img/example-server-stroke-redline-3.jpg" height="250" class="rounded-20 mb-2">
                 </li>
                 <li><strong>Stroke Properties:</strong> Outline all strokes to ensure proper scaling.</li>
                 <li><strong>Fill:</strong> Icons should be outlined, with no fill color unless specified otherwise.
@@ -28,7 +26,7 @@
               </ul>
             </li>
             <br>
-            <li>
+            <li>f
               <h5>Color Palette</h5>
               <ul>
                 <li><strong>Color:</strong> #000000 (black)</li>
@@ -108,4 +106,4 @@
             </li>
           </ol>
           <br><br>
-          <small>Updated: November 24, 2024</small>
+          <small>Updated: November 28, 2024</small>
